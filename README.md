@@ -26,9 +26,6 @@ Organize your images into two folders: hat and no_hat, containing images with an
 Ensure that the images are in JPEG format and resized to 224x224 pixels.
 Update the test_set_folder variable in the hat_detection.py script with the path to your test set folder.
 Run the hat_detection.py script to make predictions:
-bash
-Copy code
-python hat_detection.py
 The predictions will be saved in a CSV file named predictions.csv.
 
 Model Evaluation
